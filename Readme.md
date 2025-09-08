@@ -1,0 +1,2 @@
+# THE CUSTOMER CHURN PREDICTION PROJECT 
+The Goal of this project is to build a classification model that predicts whether a customer will churn ('Yes' or 'no') based on their demographic and service usage information.
